@@ -8,6 +8,8 @@ public class Main {
         System.out.println("");
                 System.out.println("");
                         System.out.println("hello world");
+        System.out.println("hello world");
+        
 
 
         Electronics elec1= new Electronics("PC ",10000,2,"DELL",2025);
